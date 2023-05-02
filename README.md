@@ -5,7 +5,7 @@
 El primer paso para realizar el programa fue revisar el contenido del primer mes del Bootcamp.
 Revisar las clases semanales para ver como se habian resuelto las dudas.
 Tome como referencia el ejemplo mencionado en los pasos a seguir.
-Avance lo mas que pude mediante lo recordado en las clases gravadas y las clases en vivo.
+Avance lo mas que pude mediante lo recordado en las clases grabadas y las clases en vivo.
 Volvi a revisar las clases para ver si alguna informacion ya mencionada me servia para solucionar algunas complicaciones que se me presentaron.
 Use informacion de Internet para solucionar algunos problemas.
 Le di formato a la informacion de salida con informacion del curso.
@@ -123,7 +123,7 @@ Y las dos impresiones van en cadenas de formato "f-strings" para poder integrar 
 
 53.- Imprime "Calculamos tu IMC en " concatenando el valor de la variable IMC en formato de cadena de texto
 
-54.- Realiza una condicion para imprmir la categoria de peso en la que se encuentra la persona dependiendo del calculo del IMC
+54.- Realiza una condicion para imprimir la categoria de peso en la que se encuentra la persona dependiendo del calculo del IMC
 
 55.- Se hace un contador regresivo para ir restando las personas que ya han realizado su calculo hasta llegar a 0 y terminar el ciclo restandole a la variable "personas" uno y reasignando el valor a la misma variable
 
@@ -131,6 +131,6 @@ Y las dos impresiones van en cadenas de formato "f-strings" para poder integrar 
 
 ## *Reflexiones sobre el Bootcamp*
 
-* Me gusta el formato del Bootcamp, y te deja una ventana para el invesigar y resolver problemas, pero sabiendo que tienes acompañamiento.
-* Aunque no he podido estar en las clases en vivo, me gusta la forma en como lleva las clases el couch Ariel, esplicando mediante la pantalla de uno de los alumnos, ya que con eso vemos las posibles trabas reales que podemos pasar al momento de realizar las tareas, y se van resolviendo en el proceso.
+* Me gusta el formato del Bootcamp, y te deja una ventana para el investigar y resolver problemas, pero sabiendo que tienes acompañamiento.
+* Aunque no he podido estar en las clases en vivo, me gusta la forma en como lleva las clases el coach Ariel, explicando mediante la pantalla de uno de los alumnos, ya que con eso vemos las posibles trabas reales que podemos pasar al momento de realizar las tareas, y se van resolviendo en el proceso.
 * En Python existen diferentes formas para llegar al mismo resultado y esto te da una ventana de oportunidad muy grande.
